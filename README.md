@@ -47,7 +47,7 @@ python test_ldl.py
 
 ### Acknowledgement:
 
-Our code is inspired from <a href="https://github.com/MIC-DKFZ/nnUNet">nnUNet</a>.
+Our code is inspired from <a href="https://github.com/MIC-DKFZ/nnUNet">nnUNet</a>
 
 # Citation:
 
