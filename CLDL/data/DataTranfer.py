@@ -239,6 +239,7 @@ if __name__ == '__main__':
     brain_region_extraction_main(path)
     # Generate H5 file
     brain_png_h5_slices(path, target_path, 7)
+    a = 1
 
 
 
